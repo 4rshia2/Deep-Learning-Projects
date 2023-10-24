@@ -21,5 +21,13 @@ Please note that this implementation is for educational purposes and may not be 
 
 ### Usage
 To use this MLP neural network, you can add additional layers, adjust hyperparameters, and provide your dataset for training.
-### Dataset
-The code is designed to work with the MNIST Fashion dataset. Make sure to download and preprocess the dataset as described in the code comments.
+
+### Dataset Folder
+
+In this project, we utilize a dataset folder to store the necessary data for training and testing our MLP (Multi-Layer Perceptron) neural network. The dataset includes images from the Fashion MNIST dataset.
+
+You can find the dataset folder [here](https://drive.google.com/drive/folders/1cCOnr9r4zGCV1Ihj6LGQYMaLfDfxs2jN?usp=drive_link), which contains the following files:
+- `train.npy`: The training dataset with preprocessed image data.
+- `labels.npy`: The corresponding labels for the training dataset.
+
+Please ensure that you have downloaded these datasets and placed them in the appropriate directories before running the project.
