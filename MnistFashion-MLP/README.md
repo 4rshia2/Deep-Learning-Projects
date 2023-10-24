@@ -27,7 +27,7 @@ To use this MLP neural network, you can add additional layers, adjust hyperparam
 In this project, we utilize a dataset folder to store the necessary data for training and testing our MLP (Multi-Layer Perceptron) neural network. The dataset includes images from the Fashion MNIST dataset.
 
 You can find the dataset folder [here](https://drive.google.com/drive/folders/1cCOnr9r4zGCV1Ihj6LGQYMaLfDfxs2jN?usp=drive_link), which contains the following files:
-- `train.npy`: The training dataset with preprocessed image data.
-- `labels.npy`: The corresponding labels for the training dataset.
+- `train.npy`
+- `test.npy`
 
 Please ensure that you have downloaded these datasets and placed them in the appropriate directories before running the project.
